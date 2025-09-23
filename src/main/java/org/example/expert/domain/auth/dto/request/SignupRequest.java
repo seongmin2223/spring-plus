@@ -19,4 +19,6 @@ public class SignupRequest {
     private String userRole;
     @NotBlank
     private String userName;
+    @NotBlank
+    private String nickName;
 }
