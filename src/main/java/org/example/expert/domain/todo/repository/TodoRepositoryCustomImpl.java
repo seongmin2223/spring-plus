@@ -6,7 +6,6 @@ import org.example.expert.domain.todo.entity.Todo;
 
 import java.util.Optional;
 
-// 👇👇 이 두 줄을 추가해주세요! 👇👇
 import static org.example.expert.domain.todo.entity.QTodo.todo;
 import static org.example.expert.domain.user.entity.QUser.user;
 
